@@ -4,4 +4,4 @@ if API then
 else
     return error("[Detect]")
 end
-return false
+return true

